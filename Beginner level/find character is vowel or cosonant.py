@@ -1,5 +1,5 @@
 w=input("enter the character : ")
-if ((w=='a' or 'A') or (w=='e' or 'E') or (w=='i' or 'I') or (w=='o' or 'O') or (w=='u' or 'U')):
+if ((w=='a') or (w=='e') or (w=='i') or (w=='o') or (w=='u') or (w=='A') or (w=='E') or (w=='I')or (w=='O')or (w=='U')):
     print("THE CHARACTER IS VOWEL")
 else:
      print("THE CHARACTER IS CONSONANT")
