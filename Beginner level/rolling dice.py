@@ -10,7 +10,6 @@ while flag==1:
         print("you have another turn")
         input("press enter to roll the diec again..!")
         f=random.randint(min,max)
-        print(f)
     else:
         print("your turn over")
         print ("Try Again...!")
